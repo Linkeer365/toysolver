@@ -1,4 +1,4 @@
-module ToySolver.SAT.Config
+module ToySolver.SAT.Solver.CDCL.Config
   ( -- * Solver configulation
     Config (..)
   , RestartStrategy (..)

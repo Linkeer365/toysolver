@@ -340,7 +340,6 @@ Library
      ToySolver.Graph.ShortestPath
      ToySolver.QBF
      ToySolver.SAT
-     ToySolver.SAT.Config
      ToySolver.SAT.Encoder.Integer
      ToySolver.SAT.Encoder.PB
      ToySolver.SAT.Encoder.PB.Internal.Adder
@@ -361,6 +360,8 @@ Library
      ToySolver.SAT.PBO.MSU4
      ToySolver.SAT.PBO.UnsatBased
      ToySolver.SAT.SLS.ProbSAT
+     ToySolver.SAT.Solver.CDCL
+     ToySolver.SAT.Solver.CDCL.Config
      ToySolver.SAT.Store.CNF
      ToySolver.SAT.Store.PB
      ToySolver.SAT.TheorySolver
